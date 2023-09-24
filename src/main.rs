@@ -5,6 +5,7 @@ use openssl::sha::sha256;
 use std::collections::HashMap;
 use std::io::{self,Write};
 use std::fs::File;
+
 // there are the imports we use
 fn main() {
 //Declared global variables
